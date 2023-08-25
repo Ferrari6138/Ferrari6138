@@ -6,8 +6,8 @@
   </h1>
   
   <p align="left" >
-    - Hoje trabalho com Front-End
-    <br>
+    <!-- - Hoje trabalho com Front-End
+    <br>-->
     - Estudando Java
   </p>
   
