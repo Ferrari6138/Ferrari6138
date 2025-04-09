@@ -6,9 +6,9 @@
   </h1>
   
   <p align="left" >
-    <!-- - Hoje trabalho com Front-End
+    <!-- - Hoje trabalho com Back-End
     <br>-->
-    - Estudando Java
+    
   </p>
   
 </div>
