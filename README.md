@@ -10,7 +10,7 @@
 - 🎓 Estudante de Ciência da Computação
 - 💻 Foco em desenvolvimento backend com Python, Java, C# e SQL Server
 - 🌍 Amante de projetos desafiadores e aprendizado constante
-- ⚙️ Atualmente estudando: JavaFX + APIs externas (como Frankfurter)
+- ⚙️ Atualmente estudando: JavaFX + APIs externas 
 - 📚 Gosto de transformar ideias em soluções funcionais
 
 ---
