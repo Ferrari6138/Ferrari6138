@@ -17,20 +17,27 @@
 
 ### 🚀 Tecnologias e Ferramentas
 
-<div align="center">
-  <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="GitHub" height="30" src="/assets/assets/GitHub.png">
-  <img alt="HTML5" height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img alt="jQuery" height="30" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
-  <img alt="npm" height="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img alt="SQL Server" height="30" src="http://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg">
-  <img alt="C#" height="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img alt="Java" height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img alt="Tomcat" height="30" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg">
-  <img alt="MySQL" height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img alt="Canva" height="30" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+<div align="center"> 
+  <img alt="Git" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  <img alt="GitHub" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="HTML5" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img alt="CSS3" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+  <img alt="jQuery" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img alt="Node.js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  <img alt="npm" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Flask" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Spring" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="MySQL" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="SQL Server" height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+  <img alt="C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img alt="Kubernetes" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img alt="Tomcat" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
+  <img alt="Canva" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg"> 
 </div>
 
 ---
